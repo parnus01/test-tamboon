@@ -4,7 +4,7 @@
 
 - Node.js (v14 or higher)
 - Yarn / NPM (for package management)
-- Omise API keys
+- Omise API keys (TEST environment)
 
 ## Installation
 
@@ -12,7 +12,7 @@
 
    ```
    git clone https://github.com/parnus01/test-tamboon.git
-   cd tamboon-tamboon
+   cd test-tamboon
    ```
 
 2. Install dependencies using Yarn:
