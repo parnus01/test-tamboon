@@ -10,9 +10,9 @@
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/parnus01/test-tamboon.git
-   cd tamboon-dot-js
+   cd tamboon-tamboon
    ```
 
 2. Install dependencies using Yarn:
